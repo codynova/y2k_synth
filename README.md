@@ -1,4 +1,4 @@
-#y2k_synth
+# y2k_synth
 
 1. Clone the repository:<br>
     `git clone https://github.com/codynova/y2k_synth.git`<br><br>
